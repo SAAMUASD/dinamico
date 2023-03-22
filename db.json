@@ -1,0 +1,52 @@
+{
+    "link":[
+        {
+            "id":1,
+            "texto": "Personas"
+        },
+        {
+            "id":2,
+            "texto": "Negocios"
+        },
+        {
+            "id":3,
+            "texto": "Empresas"
+        }
+    ],
+    "masClaro":[
+        {
+            "id":1,
+            "texto": "Mas de Claro"
+        },
+        {
+            "id":2,
+            "texto": "Claro Musica"
+        },
+        {
+            "id":3,
+            "texto": "Claro Video"
+        },
+        {
+            "id":4,
+            "texto": "Claro Gaming"
+        },
+        {
+            "id":5,
+            "texto": "Claro Play"
+        }
+    ],
+    "nav-btm":[
+        {
+            "id":1,
+            "texto": "Servicios"
+        },
+        {
+            "id":2,
+            "texto": "Tienda"
+        },
+        {
+            "id":3,
+            "texto": "Soporte"
+        }
+    ]
+}
